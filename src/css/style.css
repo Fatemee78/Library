@@ -1,0 +1,14 @@
+.small-footer{
+  position: relative !important;
+  text-align: center !important;
+  padding: 3px 0 !important;
+  color: #fff !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+  display: block!important;
+  z-index: 10 !important;
+  background: rgba(0, 0, 0, 0.1) !important;
+  text-decoration: none !important;
+}
+.color-white{
+  color: #fff !important;
+}
